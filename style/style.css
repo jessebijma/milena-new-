@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 980px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 980px;
+    height: 480px;
+    margin: 0 0 10px 0;
+    padding: 0;
+    color: white;
+}
